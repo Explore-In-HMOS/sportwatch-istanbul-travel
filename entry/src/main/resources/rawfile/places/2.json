@@ -1,0 +1,30 @@
+{
+  "id": "galata-tower",
+  "name": "Galata Tower",
+  "type": "Tower",
+  "shortDescription": "Galata Tower (Galata Kulesi Museum) is one of İstanbul’s oldest and most iconic landmarks, rebuilt by the Genoese in the 14th century and reopened as a museum in 2020.",
+  "fullDescription": "Galata Tower, also known as Galata Kulesi Museum, is a landmark in İstanbul’s Galata district and one of the city’s defining symbols. Included in UNESCO’s Tentative World Heritage List in 2013, the present tower was rebuilt by the Genoese in 1348–49 on the site of an earlier Byzantine structure linked to the Golden Horn defenses. After the Ottoman conquest in 1453, it passed to Ottoman rule and was used for centuries as a fire watchtower. The tower underwent multiple restorations after earthquakes and fires, notably in the periods of Sultan Selim and Mahmud II, which shaped its current mixed Genoese-Ottoman architectural character. Architecturally, it features a cylindrical masonry body, arched windows, upper moldings, and its famous conical roof with an observation balcony. Restored by Türkiye’s Ministry of Culture and Tourism, it reopened as a museum on October 6, 2020. The tower is also associated with Hezârfen Ahmed Çelebi’s celebrated 17th-century flight attempt across the Bosphorus and later discoveries of underground tunnel remains near its foundations.",
+  "address": "Bereketzade, Galata kulesi, 34421 Beyoglu/Istanbul",
+  "latitude": 41.025730,
+  "longitude": 28.974107,
+  "open_close_hours": {
+    "regular": {
+      "opening_time": "08:30",
+      "closing_time": "18:15",
+      "box_office_closing_time": "17:45"
+    },
+    "night": {
+      "opening_time": "19:00",
+      "closing_time": "23:00",
+      "box_office_closing_time": "22:00"
+    }
+  },
+  "image_url": "https://muze.gen.tr/c7/Galata_Tower_Museum.webp",
+  "official_website": "https://muze.gen.tr/muze-detay/galatakulesi",
+  "ticketPurchaseLink": "https://muze.gov.tr/urun-ekle?catalogNo=WEB-GLT03-87-009",
+  "contact": {
+    "email": "galatakulesimuzesi@ktb.gov.tr",
+    "phone_1": "+90(212)2490344",
+    "phone_2": "+90(212)2454141"
+  }
+}

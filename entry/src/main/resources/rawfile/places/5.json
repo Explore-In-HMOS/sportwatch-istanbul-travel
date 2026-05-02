@@ -1,0 +1,30 @@
+{
+  "id": "rumeli-fortress-museum",
+  "name": "Rumeli Fortress Museum (Hisarlar Museum)",
+  "type": "Fortress",
+  "shortDescription": "Rumeli Fortress Museum is a 15th-century Ottoman stronghold on the Bosphorus, built by Mehmed II in 1452 and now preserved as a major example of Ottoman military architecture.",
+  "fullDescription": "Rumeli Fortress (Rumelihisari), part of the Hisarlar Museum complex, was built in 1452 by Sultan Mehmed II in just a few months before the conquest of Constantinople. Located at the narrowest point of the Bosphorus opposite Anadolu Fortress, it was designed to control naval passage and secure the strait. The fortress includes major towers associated with Saruca Pasha, Çandarlı Halil Pasha, and Zağanos Pasha, multiple gates, and a network of walls and bastions that reflect advanced Ottoman military engineering. After 1453, it served different roles including customs control and imprisonment, later losing strategic importance. Restored in the Republican era and opened to visitors in 1968, the site today functions as an open-air museum where visitors can explore its monumental fortifications, inscriptions, historic artifacts displayed in the garden, and panoramic Bosphorus views.",
+  "address": "Rumeli Hisari, Yahya Kemal Cad. No:42 34470 Sariyer/ISTANBUL",
+  "latitude": 41.084951,
+  "longitude": 29.057148,
+  "open_close_hours": {
+    "regular": {
+      "opening_time": "09:00",
+      "closing_time": "18:00",
+      "box_office_closing_time": "17:30"
+    },
+    "night": {
+      "opening_time": "00:00",
+      "closing_time": "00:00",
+      "box_office_closing_time": "00:00"
+    }
+  },
+  "image_url": "https://muze.gen.tr/c7/Rumeli_Fortress_Museum.webp",
+  "official_website": "https://muze.gen.tr/muze-detay/rumeli",
+  "ticketPurchaseLink": "https://muze.gov.tr/urun-ekle?catalogNo=WEB-HIS01-01-009",
+  "contact": {
+    "email": "hisarlarmuzesi@ktb.gov.tr",
+    "phone_1": "+90(212)2635305",
+    "phone_2": null
+  }
+}

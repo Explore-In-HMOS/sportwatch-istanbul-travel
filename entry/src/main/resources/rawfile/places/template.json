@@ -1,0 +1,30 @@
+{
+  "id": "",
+  "name": "",
+  "type": "",
+  "shortDescription": "",
+  "fullDescription": "",
+  "address": "",
+  "latitude": null,
+  "longitude": null,
+  "open_close_hours": {
+    "regular": {
+      "opening_time": "09:00",
+      "closing_time": "18:00",
+      "box_office_closing_time": "17:30"
+    },
+    "night": {
+      "opening_time": "00:00",
+      "closing_time": "00:00",
+      "box_office_closing_time": "00:00"
+    }
+  },
+  "image_url": "",
+  "official_website": "",
+  "ticketPurchaseLink": "",
+  "contact": {
+    "email": "",
+    "phone_1": "",
+    "phone_2": ""
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "turkish-and-islamic-arts-museum",
+  "name": "Turkish and Islamic Arts Museum",
+  "type": "Museum",
+  "shortDescription": "The Turkish and Islamic Arts Museum in Istanbul houses one of the world’s richest collections of Islamic art, including an internationally renowned carpet collection, and is located in the historic Ibrahim Pasha Palace.",
+  "fullDescription": "Founded in 1914 as the Evkaf-i Islamiye Museum under the leadership of Osman Hamdi Bey, the Turkish and Islamic Arts Museum was the first museum in Türkiye to present Turkish and Islamic works together and the last museum opened in the Ottoman era. Originally located in the Suleymaniye Complex, it moved in 1983 to the 15th-century Ibrahim Pasha Palace at Sultanahmet, one of the oldest surviving Ottoman civil palace structures. The museum is especially famous for its globally significant carpet collection of around 1,700 pieces, featuring Seljuk, Ottoman, Anatolian, Uşak, Iranian, and Caucasian examples. Its holdings also include major collections of metalwork, ceramics, glass, stone, wood, manuscripts, and architectural fragments from early Islamic to Ottoman periods, as well as a rich ethnography section reflecting Ottoman daily life from the 18th to early 20th centuries. After major restoration, the museum reopened in 2014 on the centenary of its first opening.",
+  "address": "Binbirdirek Mah. At Meydani Cad. No:12, 34122 Sultanahmet/Istanbul",
+  "latitude": 41.006417,
+  "longitude": 28.975202,
+  "open_close_hours": {
+    "regular": {
+      "opening_time": "09:00",
+      "closing_time": "18:30",
+      "box_office_closing_time": "17:30"
+    },
+    "night": {
+      "opening_time": "00:00",
+      "closing_time": "00:00",
+      "box_office_closing_time": "00:00"
+    }
+  },
+  "image_url": "https://muze.gen.tr/c7/tiem.webp",
+  "official_website": "https://muze.gen.tr/muze-detay/tiem",
+  "ticketPurchaseLink": "https://muze.gov.tr/urun-ekle?catalogNo=WEB-TIE01-87-009",
+  "contact": {
+    "email": "tiem@ktb.gov.tr",
+    "phone_1": "+90(212)5181805",
+    "phone_2": "+90(212)5181806"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "istanbul-archaeology-museum",
+  "name": "Istanbul Archaeology Museum",
+  "type": "Archaeology",
+  "shortDescription": "Istanbul Archaeological Museums is one of Türkiye’s oldest and most important museum institutions, bringing together the Archaeology Museum, the Museum of the Ancient Orient, and the Tiled Kiosk Museum in a single historic complex.",
+  "fullDescription": "Istanbul Archaeological Museums (İstanbul Arkeoloji Müzeleri) is a historic museum complex made up of three major units: the Archaeology Museum, the Museum of the Ancient Orient, and the Tiled Kiosk Museum. Located within the same garden, these museums preserve the imperial collections formed in the late 19th century under the leadership of Osman Hamdi Bey—renowned archaeologist, painter, and pioneering museum director. Considered the first modern museum institution in both the Ottoman Empire and Türkiye, the complex today houses nearly a million artifacts from many different civilizations once connected to imperial lands.\n\nThe roots of Ottoman collecting culture go back to the reign of Mehmed II (Mehmed the Conqueror), while the institutional foundation was established in 1869 as Müze-i Hümayun (Imperial Museum), initially based in Hagia Irene. As collections grew, the Tiled Kiosk (Çinili Köşk)—built in 1472 and one of the oldest Ottoman civil structures in Istanbul—was converted into museum use and opened in 1880. Under Osman Hamdi Bey’s directorship beginning in 1881, Turkish museology entered a transformative period. His excavations at sites including Nemrud, Myrina, Kyme, Lagina, and especially Sidon (1887–1888) brought extraordinary finds to Istanbul, including the famous Alexander Sarcophagus, the Sarcophagus of the Mourning Women, and other monumental tombs.\n\nTo display these major discoveries, the neo-classical main Archaeology Museum building was commissioned opposite the Tiled Kiosk and designed by architect Alexandre Vallaury; it opened on 13 June 1891. The structure is among the rare purpose-built museum buildings of its era and remains one of Istanbul’s elegant neo-classical landmarks. Its entrance inscription in Ottoman Turkish reads “Asar-ı Atika Müzesi” (Museum of Antiquities), bearing the tughra of Sultan Abdulhamid II.\n\nThe Tiled Kiosk Museum itself is notable for its Persian-influenced façade, marble-columned arcade, mosaic-tiled entrance, and galleries displaying rich examples of Seljuk and Ottoman tiles and ceramics. The Museum of the Ancient Orient occupies a building originally constructed in 1883 by Osman Hamdi Bey as the Ottoman Empire’s first fine arts academy (Sanayi-i Nefise Mektebi), later the foundation of Mimar Sinan Fine Arts University. After the academy moved in 1917, the building was reorganized as a dedicated museum for the ancient cultures of the Near East, separate from Greek, Roman, and Byzantine collections.",
+  "address": "Alemdar Cad. Osman Hamdi Bey Yokusu Sk. 34122 Gülhane/Fatih/ISTANBUL",
+  "latitude": 41.012074,
+  "longitude": 28.981781,
+  "open_close_hours": {
+    "regular": {
+      "opening_time": "09:00",
+      "closing_time": "18:30",
+      "box_office_closing_time": "17:30"
+    },
+    "night": {
+      "opening_time": "00:00",
+      "closing_time": "00:00",
+      "box_office_closing_time": "00:00"
+    }
+  },
+  "image_url": "https://muze.gen.tr/c7/arkeoloji.webp",
+  "official_website": "https://muze.gen.tr/muze-detay/arkeoloji",
+  "ticketPurchaseLink": "https://muze.gov.tr/urun-ekle?catalogNo=WEB-IAR01-87-009",
+  "contact": {
+    "email": "istanbularkeoloji@ktb.gov.tr",
+    "phone_1": "+90(212)5207740",
+    "phone_2": "+90(212)5207741"
+  }
+}

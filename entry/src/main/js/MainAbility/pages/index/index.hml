@@ -1,0 +1,16 @@
+<div class="container">
+    <text class="page-title">Istanbul</text>
+    <div class="category-selector" onclick="openCategoryPicker">
+        <text class="category-label">{{ selectedCategoryName }}</text>
+        <text class="category-chevron">▼</text>
+    </div>
+    <list class="list-wrapper">
+        <list-item for="{{ (places) }}" class="list-item"
+                   onclick="onItemClick({{ $idx }}, {{ $item }})">
+            <div class="card">
+                <image class="card-image" src="/common/images/places/{{ $item.originalIdx }}.jpg"></image>
+                <text class="card-title">{{ $item.name }}</text>
+            </div>
+        </list-item>
+    </list>
+</div>

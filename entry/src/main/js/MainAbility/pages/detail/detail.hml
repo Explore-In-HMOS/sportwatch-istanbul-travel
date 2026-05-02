@@ -1,0 +1,57 @@
+<stack class="custom-stack">
+    <div class="container">
+        <list class="detail-list"style="width: {{ cw }} px;">
+            <list-item class="header-item" style="width: {{ cw }} px; height: {{ headerH }} px;">
+                <image class="hero-image" onswipe="onSwipe" src="/common/images/places/{{ placeIdx }}.jpg"
+                       style="width: {{ cw }} px; height: {{ imgH }} px;"></image>
+                <text class="detail-name" onswipe="onSwipe" style="width: {{ nw }}">{{ name }}</text>
+                <text class="detail-type" onswipe="onSwipe" >{{ type }}</text>
+            </list-item>
+
+            <list-item class="section-item" style="width: {{ cw }} px; height: {{ descHeight }} px;">
+                <text class="detail-desc" onswipe="onSwipe" style="width: {{ dw }}">{{ shortDescription }} </text>
+            </list-item>
+
+            <list-item class="section-item" style="width: {{ cw }} px; height: {{ addrHeight }} px;">
+                <text class="section-title" onswipe="onSwipe" >Address</text>
+                <text class="info-text" onswipe="onSwipe" >{{ address }}</text>
+            </list-item>
+
+            <list-item class="section-item" style="width: {{ cw }} px; height: 140px;">
+                <text class="section-title" onswipe="onSwipe" >Hours</text>
+                <div class="hours-row" onswipe="onSwipe" style="width: {{ cw }} px;">
+                    <text class="hours-label" onswipe="onSwipe" >Open</text>
+                    <text class="hours-value" onswipe="onSwipe" >{{ regularOpen }}</text>
+                </div>
+                <div class="hours-row" style="width: {{ cw }} px;">
+                    <text class="hours-label" onswipe="onSwipe" >Close</text>
+                    <text class="hours-value" onswipe="onSwipe" >{{ regularClose }}</text>
+                </div>
+                <div class="hours-row" style="width: {{ cw }} px;">
+                    <text class="hours-label" onswipe="onSwipe" >Box Office</text>
+                    <text class="hours-value" onswipe="onSwipe" >{{ boxOfficeClose }}</text>
+                </div>
+            </list-item>
+
+            <list-item class="section-item" if="{{ hasSimilarPlaces }}" style="width: {{ cw }} px; height: 260px;">
+                <text class="section-title" onswipe="onSwipe" style="margin-top:32px">Similar Places</text>
+                <list class="similar-places-list">
+                    <list-item for="{{ (similarPlaces) }}" class="similar-places-list-item"
+                               onclick="onSimilarPlaceClick({{ $item }})">
+                        <div class="similar-places-card">
+                            <image class="similar-places-card-image" src="/common/images/places/{{ $item.originalIdx }}.jpg"></image>
+                            <text class="similar-places-card-title">{{ $item.name }}</text>
+                        </div>
+                    </list-item>
+                </list>
+            </list-item>
+
+            <list-item class="arc-btn-spacer" if="{{ linkExists }}" >
+                <div></div>
+            </list-item>
+        </list>
+    </div>
+    <input class="btn-arc"  if="{{ isCircular && linkExists }}" type="button" value="" onclick="onQrClick"></input>
+    <input class="btn-rect"  if="{{ !isCircular && linkExists }}" type="button" value="" onclick="onQrClick"></input>
+    <text class="btn-arc-text" if="{{ linkExists }}" onclick="onQrClick">Buy Ticket</text>
+</stack>

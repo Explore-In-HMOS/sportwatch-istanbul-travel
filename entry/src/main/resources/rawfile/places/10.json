@@ -1,0 +1,30 @@
+{
+  "id": "hagia-irene-museum",
+  "name": "Hagia Irene Museum",
+  "type": "Museum",
+  "shortDescription": "Hagia Irene is the oldest surviving Byzantine church in Istanbul and the city’s second-largest church after Hagia Sophia, notable for its rare standing atrium and its role as the birthplace of Turkish museology.",
+  "fullDescription": "Located in the outer courtyard of Topkapi Palace, Hagia Irene (Hagia Eirene, meaning “Sacred Peace”) is the oldest church of the Byzantine Empire in Istanbul and historically the second largest church in the city after Hagia Sophia. Originally built in 330 as a wooden structure over an older temple, it was destroyed during the Nika Revolt in 532 and rebuilt in the reign of Justinianus alongside Hagia Sophia.\n\nArchitecturally, Hagia Irene is a major Byzantine monument with a basilical plan of three naves and three main sections: naos, narthex, and atrium. It is especially significant as the only surviving Byzantine church in Istanbul with its atrium still standing. After the great earthquake of 740, repairs under Leo III and Constantine Copronymus transformed its upper structure, giving the building its present form as a domed church with a basilical layout. While earlier decoration may have included rich figurative ornamentation, Iconoclastic-era renovations replaced these elements; the cross motif visible on the half dome dates from that period.\n\nUnlike Hagia Sophia, Hagia Irene was not converted into a mosque after the Ottoman conquest. It was used primarily as a weapons and military storage building (Cebehane / Harbiye Warehouse), with limited architectural alteration. In the 18th century, inscription tablets added at the entrance recorded restorations and reorganizations of its military function. In 1846, under Fethi Ahmed Pasha, its collections were arranged into museum sections, and by 1869 it became Müze-i Hümayun (Imperial Museum), regarded as the first official museum of the Ottoman state and a foundational site in Turkish museology. Later it returned to depot use, and from 1908 to 1940 it served as the first Military Museum.",
+  "address": "Cankurtaran, Topkapi Sarayi, No:1, 34122 Fatih/Istanbul",
+  "latitude": 41.009690,
+  "longitude": 28.981666,
+  "open_close_hours": {
+    "regular": {
+      "opening_time": "09:00",
+      "closing_time": "18:00",
+      "box_office_closing_time": "17:00"
+    },
+    "night": {
+      "opening_time": "00:00",
+      "closing_time": "00:00",
+      "box_office_closing_time": "00:00"
+    }
+  },
+  "image_url": "https://muze.gen.tr/c7/Hagia_Irene.webp",
+  "official_website": "https://muze.gen.tr/muze-detay/ayairini",
+  "ticketPurchaseLink": "https://www.getyourguide.com/hagia-irene-l27831/?partner_id=HS8SF4D&utm_medium=online_publisher&cmp=ayairinimd2&deeplink_id=57e12b89-5b66-541d-a6f0-8a34d750720c&page_id=80717158-4d7b-5c2b-8c0a-02070222931c",
+  "contact": {
+    "email": "info@millisaraylar.gov.tr",
+    "phone_1": "+90(212)5120480",
+    "phone_2": null
+  }
+}

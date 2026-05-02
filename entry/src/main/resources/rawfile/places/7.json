@@ -1,0 +1,30 @@
+{
+  "id": "maidens-tower-museum",
+  "name": "Maiden’s Tower Museum",
+  "type": "Tower",
+  "shortDescription": "An iconic tower-museum on a small islet off Üsküdar, the Maiden’s Tower blends over 2,000 years of Bosphorus history with legendary tales and carefully restored Ottoman-era architecture.",
+  "fullDescription": "The Maiden’s Tower (Turkish: Kız Kulesi), also known as Leander’s Tower since the medieval Byzantine era, stands on a small islet about 200 meters off Üsküdar at the southern entrance of the Bosphorus in Istanbul. It is one of the city’s best-known landmarks, with a history of over two millennia.\n\nHistorical accounts link the site to around 410–408 BC, when the Athenian commander Alcibiades is said to have established a customs station to control and tax passing ships. In the Byzantine period, especially under Emperor Manuel I Komnenos (12th century), it served as a defensive tower and was linked by chain to opposite shore defenses to regulate maritime traffic. After the Ottoman conquest in 1453, Sultan Mehmed II rebuilt the and stationed guards there.\n\nOver time, the structure took on many functions: fortress post, ceremonial signal point, lighthouse, quarantine station, and later military/radar observation post. In the 19th century, it was used during plague and cholera outbreaks to isolate patients and help contain epidemics.\n\nArchitecturally, the tower changed through repeated reconstructions after fires, disasters, and conflict. From an early wooden form, Byzantine and Ottoman works reshaped it significantly. A major Ottoman rebuilding in 1725 under Grand Vizier Nevşehirli Damat İbrahim Pasha gave it much of its lasting form, while 19th-century restorations under Sultan Mahmud II refined its appearance with lantern, façade, and interior updates.\n\nA French-installed lantern in 1857 improved lighthouse visibility. In the modern period, the tower passed through several state institutions and uses. After late 20th-century works and a comprehensive Ministry of Culture and Tourism restoration (2021–2023), it reopened on May 11, 2023.\n\nThe latest project aimed to restore its early 19th-century character while strengthening safety. Experts used chemical analysis, laser scanning, and georadar imaging, adding minimally visible reinforcements, stainless-steel bracing, and seismic/wave-protection systems around the islet.\n\nToday, the Maiden’s Tower operates as a monument-museum under the Ministry of Culture and Tourism, accessible by boat (including from Üsküdar and Galataport), with visitor amenities such as a pastry/café area.\n\nIt is also celebrated for its legends: the princess-and-snake prophecy, the tragic love story of Hero and Leandros, and the Battal Gazi tale linked to the saying “Atı alan Üsküdar’ı geçti.” Together, these stories make the Maiden’s Tower both a historic monument and a lasting cultural symbol of Istanbul.",
+  "address": "Salacak Mah. Salacak Mevkii 34668 Üsküdar/Istanbul",
+  "latitude": 41.021242,
+  "longitude": 29.004593,
+  "open_close_hours": {
+    "regular": {
+      "opening_time": "09:00",
+      "closing_time": "18:00",
+      "box_office_closing_time": "17:30"
+    },
+    "night": {
+      "opening_time": "00:00",
+      "closing_time": "00:00",
+      "box_office_closing_time": "00:00"
+    }
+  },
+  "image_url": "https://muze.gen.tr/c7/maidens-tower-cover.webp",
+  "official_website": "https://muze.gen.tr/muze-detay/kizkulesi",
+  "ticketPurchaseLink": "https://muze.gov.tr/urun-ekle?catalogNo=WEB-KZK01-87-009",
+  "contact": {
+    "email": "iktm34@ktb.gov.tr",
+    "phone_1": "+90(216)3424747",
+    "phone_2": null
+  }
+}

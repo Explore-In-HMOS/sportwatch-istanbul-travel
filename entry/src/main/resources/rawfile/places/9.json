@@ -1,0 +1,30 @@
+{
+  "id": "hagia-sophia-mosque",
+  "name": "Hagia Sophia Mosque",
+  "type": "Mosque",
+  "shortDescription": "Hagia Sophia (Ayasofya-i Kebir Cami-i Şerifi) is a monumental architectural and cultural landmark in Istanbul, first built as a Byzantine cathedral, later converted into an imperial Ottoman mosque, then used as a museum, and reopened for worship as a mosque in 2020.",
+  "fullDescription": "Located on Istanbul’s historic peninsula, Hagia Sophia is one of the world’s most important monuments of architecture, religion, and history. Built three times on the same site, its first church (Megale Ekklesia) was constructed in 360 under Emperor Konstantios and later destroyed; a second church built in 415 under Theodosios II was also destroyed during the Nika Revolt in 532. The current structure, commissioned by Emperor Justinianos and designed by Anthemios of Tralles and Isidoros of Miletos, was completed in an exceptionally short time and opened in 537. Its vast central dome, marble revetments, monolithic columns, and extraordinary mosaics made it a defining masterpiece of Byzantine architecture.\n\nThroughout the Byzantine period, Hagia Sophia served as the empire’s principal cathedral and coronation church. After the conquest of Constantinople in 1453, Sultan Mehmed II converted it into an imperial mosque. Over the Ottoman centuries, major additions and restorations—including buttresses and structural strengthening by Mimar Sinan, minarets, mihrab, minbar, madrasah, fountain, and other complex buildings—helped preserve and transform the monument. Its interior gained major Islamic artistic elements, especially monumental calligraphic roundels by Kazasker Mustafa İzzet Efendi and Quranic inscriptions beneath the dome.\n\nHagia Sophia contains layered artistic heritage from multiple eras: Byzantine mosaics (including Deesis, imperial and Marian panels), Ottoman calligraphy, minarets from different periods, Hellenistic marble urns, the omphalion (Byzantine coronation area), Viking graffiti in the upper gallery, and the grave marker of Enrico Dandolo. It was converted into a museum in 1934, listed within UNESCO’s Historic Areas of Istanbul in 1985, and reopened as a mosque in 2020 while remaining open to visitors. Today, Hagia Sophia continues to function both as an active place of worship and one of Türkiye’s most visited historic sites.",
+  "address": "Sultan Ahmet, Ayasofya Meydani No:1, 34122 Fatih/Istanbul",
+  "latitude": 41.008793,
+  "longitude": 28.980657,
+  "open_close_hours": {
+    "regular": {
+      "opening_time": "08:00",
+      "closing_time": "19:30",
+      "box_office_closing_time": "19:00"
+    },
+    "night": {
+      "opening_time": "00:00",
+      "closing_time": "00:00",
+      "box_office_closing_time": "00:00"
+    }
+  },
+  "image_url": "https://muze.gen.tr/c7/Ayasofya-camii-cover.webp",
+  "official_website": "https://muze.gen.tr/muze-detay/ayasofya",
+  "ticketPurchaseLink": "https://www.getyourguide.com/hagia-sophia-l2705/?partner_id=HS8SF4D&utm_medium=online_publisher&cmp=ayasofyamd2&deeplink_id=2376d8a8-e4b2-5782-bd41-9cb052263195&page_id=10e5ac04-bc27-5235-bc43-88f947c96677",
+  "contact": {
+    "email": "islamicworld@diyanet.gov.tr",
+    "phone_1": "+90(212)5221750",
+    "phone_2": "+90(212)2518810"
+  }
+}

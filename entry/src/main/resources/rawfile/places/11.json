@@ -1,0 +1,30 @@
+{
+  "id": "topkapi-palace-harem",
+  "name": "Topkapi Palace Harem",
+  "type": "Palace",
+  "shortDescription": "The Imperial Harem of Topkapi Palace was the private residential and educational complex of the Ottoman dynasty, housing the sultan’s family and court women in a highly structured and secluded environment from the 16th to 19th centuries.",
+  "fullDescription": "The Topkapı Palace Harem was the secluded private quarter of the Ottoman sultans and their families, as well as the residence of the women of the dynasty and the harem institution. More than a residence, it functioned as a tightly regulated social and educational system with its own hierarchy and rules. Entry was strictly controlled and generally limited to the sultan, the valide sultan (queen mother), wives and children, selected officials, concubines, and eunuch guards.\n\nIts major expansion began when Sultan Süleyman the Magnificent moved to Topkapı’s harem with Hürrem Sultan and the imperial family. Concealed behind high walls and connected to the palace’s second courtyard and rear sections, the complex evolved over centuries through continuous additions, eventually taking its final form between the 16th and 19th centuries.\n\nArchitecturally, the Harem is one of the most important sections of Topkapı Palace, reflecting multiple Ottoman artistic periods through its courtyards, gates, rooms, kiosks, and service structures. It contains more than 300 rooms, 9 baths, 2 mosques, a hospital, wards, and laundry areas, many decorated with fine İznik and Kütahya tiles. Highlights include the Privy Chamber of Murad III (a key work associated with Mimar Sinan), the Privy Chamber of Ahmed III (the Fruit Room, a notable example of Tulip Era aesthetics), and the Twin Kiosk/Apartments of the Crown Prince with interior fountains. Other important areas include the Main Entrance, Court of the Concubines, Imperial Hall, Apartments of the Queen Mother, baths of the sultan and queen mother, Courtyard of the Favorites, Wards of the Tressed Halberdiers, Pipe Room, and related bath spaces.\n\nVisitors exploring this history are also encouraged to see the nearby Ayasofya Hürrem Sultan Hamam, commissioned for Hürrem Sultan and designed by Mimar Sinan between Hagia Sophia and the Blue Mosque. Built on the site of the ancient Baths of Zeuxippus, this 75-meter classical Ottoman bath is notable for placing male and female sections on the same axis—an innovative feature in Turkish bath architecture.",
+  "address": "Cankurtaran Mah. Babi Hümayun Cad. No:1 34122 Sultanahmet/Fatih/Istanbul",
+  "latitude": 41.012934,
+  "longitude": 28.983810,
+  "open_close_hours": {
+    "regular": {
+      "opening_time": "09:00",
+      "closing_time": "18:00",
+      "box_office_closing_time": "17:00"
+    },
+    "night": {
+      "opening_time": "00:00",
+      "closing_time": "00:00",
+      "box_office_closing_time": "00:00"
+    }
+  },
+  "image_url": "https://muze.gen.tr/c7/Topkapi_Palace_Harem.webp",
+  "official_website": "https://muze.gen.tr/muze-detay/harem",
+  "ticketPurchaseLink": "https://www.getyourguide.com/topkapi-palace-l3534/?partner_id=HS8SF4D&utm_medium=online_publisher&cmp=haremmd2&deeplink_id=494446ca-eec1-5771-b415-c543bd799348&page_id=a39a58c1-f586-5a58-add8-b1d14e955f9f",
+  "contact": {
+    "email": "info@millisaraylar.gov.tr",
+    "phone_1": "+90(212)95120480",
+    "phone_2": null
+  }
+}

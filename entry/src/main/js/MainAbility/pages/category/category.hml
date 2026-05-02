@@ -1,0 +1,12 @@
+<div class="container">
+    <text class="page-title">Category</text>
+    <list class="category-list" onswipe="onSwipe">
+        <list-item for="{{ categoryItems }}" class="category-item"
+                   onclick="selectCategory({{ $item.name }})">
+            <text class="category-text"
+                  style="color: {{ $item.textColor }}; background-color: {{ $item.bgColor }}">
+                {{ $item.name }}
+            </text>
+        </list-item>
+    </list>
+</div>

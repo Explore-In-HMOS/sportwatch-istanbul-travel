@@ -1,0 +1,30 @@
+{
+  "id": "topkapi-palace",
+  "name": "Topkapi Palace",
+  "type": "Palace",
+  "shortDescription": "Built after the conquest of Istanbul by Sultan Mehmed II, Topkapı Palace served as the Ottoman Empire’s main residence and administrative center for nearly four centuries and is now one of Türkiye’s most important museum-palaces.",
+  "fullDescription": "Topkapi Palace was commissioned by Sultan Mehmed II and built between 1460 and 1478 after the conquest of Istanbul. Expanded over centuries by successive sultans, it became the political, ceremonial, and residential heart of the Ottoman Empire until the mid-19th century, when Dolmabahçe Palace took over as the main imperial residence.\n\nLocated at Sarayburnu on Istanbul’s historic peninsula—between the Marmara Sea, the Bosphorus, and the Golden Horn—the palace occupies one of the city’s most historic sites. Its setting and layered architecture reflect both imperial power and the evolving needs of court life. Although later sultans moved to Dolmabahçe, Topkapı preserved its symbolic and historical prestige.\n\nOn 3 April 1924, shortly after the foundation of the Republic of Türkiye, Topkapı Palace was converted into a museum, becoming one of the earliest and most significant museums of the Republican era. Today, with its monumental structures, rich collections, and vast archival holdings, it is regarded as one of the largest and most important palace museums in the world.\n\nThe palace is organized around courtyards and gardens and traditionally divided into four main functional sections: the Bîrun (Outer Palace and service areas), the Divan-ı Hümâyun (administrative and council zone), the Enderûn (palace school and elite inner service), and the Harem (private imperial quarters). Its major gates—Bâb-ı Hümâyun (Imperial Gate), Bâbüsselâm (Gate of Greeting), and Bâbüssaâde (Gate of Felicity)—lead through successive courts that once hosted ceremonies, governance, education, and court life.\n\nAmong its notable spaces are the Divan Square and Council Chamber, the Tower of Justice, the Audience Chamber, the Treasury, the Apartment of Holy Relics, and the pavilions of the fourth court, including the Baghdad and Revan pavilions—masterpieces of classical Ottoman architecture.",
+  "address": "Cankurtaran Mah. Babi Hümayun Cad. No:1 34122 Sultanahmet/Fatih/Istanbul",
+  "latitude": 41.011528,
+  "longitude": 28.983377,
+  "open_close_hours": {
+    "regular": {
+      "opening_time": "09:00",
+      "closing_time": "18:00",
+      "box_office_closing_time": "17:30"
+    },
+    "night": {
+      "opening_time": "00:00",
+      "closing_time": "00:00",
+      "box_office_closing_time": "00:00"
+    }
+  },
+  "image_url": "https://muze.gen.tr/c7/Topkapi-Sarayi-cover.webp",
+  "official_website": "https://muze.gen.tr/muze-detay/topkapi",
+  "ticketPurchaseLink": "https://www.millisaraylar.gov.tr/Lokasyon/2/Topkapi-Palace",
+  "contact": {
+    "email": "info@millisaraylar.gov.tr",
+    "phone_1": "+90(212)5120480",
+    "phone_2": "+90(212)2369000"
+  }
+}

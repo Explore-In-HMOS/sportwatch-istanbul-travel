@@ -1,0 +1,30 @@
+{
+  "id": "sultan-ahmed-mosque",
+  "name": "Sultan Ahmed Mosque",
+  "type": "Mosque",
+  "shortDescription": "The Blue Mosque, one of Istanbul's most iconic landmarks, built between 1609 and 1616 by Sultan Ahmed I and famous for its six minarets and stunning İznik tile interior.",
+  "fullDescription": "The Sultan Ahmed Mosque, widely known as the Blue Mosque (Sultan Ahmet Camii), is a grand Ottoman imperial mosque and one of Istanbul's most recognizable landmarks. Built between 1609 and 1616 under Sultan Ahmed I and designed by the imperial architect Sedefkâr Mehmed Ağa, it stands directly opposite Hagia Sophia on the Sultanahmet Square.\n\nThe mosque is especially famous for its six minarets—an exceptional number that caused controversy at the time, as only the mosque in Mecca had that many. Its exterior is defined by a graceful cascade of domes and semi-domes that build up toward the central dome, which rises 43 meters above the floor.\n\nThe interior is lined with over 20,000 handmade İznik tiles in more than 50 tulip designs, predominantly in shades of blue and white—which gave the mosque its popular nickname. More than 200 stained glass windows allow natural light to filter through, illuminating the vast prayer hall below.\n\nThe mosque was built as part of a larger külliye (charitable complex) that originally included a hospital, a primary school, a caravanserai, a bazaar, and the tomb of Sultan Ahmed I. Today the Sultan Ahmed Mosque remains an active place of worship and is open to visitors outside of prayer times, continuing to draw millions of people each year as one of the defining symbols of Istanbul.",
+  "address": "Cankurtaran, At Meydani Cd No:7, 34122 Fatih/Istanbul, Türkiye",
+  "latitude": 41.005522,
+  "longitude": 28.977682,
+  "open_close_hours": {
+    "regular": {
+      "opening_time": "08:30",
+      "closing_time": "17:30",
+      "box_office_closing_time": "17:00"
+    },
+    "night": {
+      "opening_time": "00:00",
+      "closing_time": "00:00",
+      "box_office_closing_time": "00:00"
+    }
+  },
+  "image_url": "https://theistanbulinsider.com/wp-content/uploads/2020/03/blue-mosque-aerial.jpg",
+  "official_website": "https://bluemosque.gen.tr/blue-mosque-history/",
+  "ticketPurchaseLink": "https://bluemosque.gen.tr/istanbul-pass/",
+  "contact": {
+    "email": null,
+    "phone_1": null,
+    "phone_2": null
+  }
+}

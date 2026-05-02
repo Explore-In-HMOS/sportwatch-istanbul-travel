@@ -1,0 +1,30 @@
+{
+  "id": "turbes-museum",
+  "name": "Turbes Museum",
+  "type": "Museum",
+  "shortDescription": "The İstanbul Tombs (Türbes) Museum Directorate, established in 1978 under the Ministry of Culture and Tourism, administers and preserves 120 historic mausoleums across Istanbul, including the tombs of major Ottoman sultans and dynasty members.",
+  "fullDescription": "The İstanbul Shrines/Tombs Museum Directorate (Türbeler Müzesi Müdürlüğü) was founded on 15 February 1978 to manage, protect, and provide services for historic mausoleums under the Turkish Ministry of Culture and Tourism. Its collection includes some of the most significant Ottoman imperial burial sites, such as the tombs of Süleyman the Magnificent, Hürrem Sultan, Fatih Sultan Mehmed, and Yavuz Sultan Selim, along with many other royal, religious, military, and scholarly figures.\n\nToday, the Directorate oversees a network of 120 registered tomb structures distributed across Istanbul districts including Fatih, Eyüp, Üsküdar, Eminönü, Beşiktaş, Şehzadebaşı, Kocamustafapaşa, Aksaray, Çemberlitaş, and others. The list covers imperial türbes of sultans and valide sultans, grand viziers and pashas, saints and sheikhs, princes, calligraphers, and notable Ottoman statesmen. Through this system, the Directorate functions as a centralized institutional body for conserving Istanbul’s funerary heritage and ensuring public access to these mausoleum sites as part of the city’s broader museum and cultural landscape.",
+  "address": "Istanbul/Türkiye",
+  "latitude": null,
+  "longitude": null,
+  "open_close_hours": {
+    "regular": {
+      "opening_time": "08:00",
+      "closing_time": "17:30",
+      "box_office_closing_time": "17:00"
+    },
+    "night": {
+      "opening_time": "00:00",
+      "closing_time": "00:00",
+      "box_office_closing_time": "00:00"
+    }
+  },
+  "image_url": "https://muze.gen.tr/c7/Turbes_Museums.webp",
+  "official_website": "https://muze.gen.tr/muze-detay/turbeler",
+  "ticketPurchaseLink": null,
+  "contact": {
+    "email": "turbelermuzesi@ktb.gov.tr",
+    "phone_1": "+90(212)5182919",
+    "phone_2": null
+  }
+}

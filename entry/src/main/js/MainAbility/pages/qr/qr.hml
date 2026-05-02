@@ -1,0 +1,10 @@
+<div class="container" onswipe="onSwipe">
+    <qrcode
+            value="{{qrValue}}"
+            class="qrCode"
+            onclick="onQrClick"
+            onlongpress="onQrLongPress">
+    </qrcode>
+    <text class="detail-desc-circle" if="{{isCircular}}">Scan the QR Code on your phone to be redirected to ticket website</text>
+    <text class="detail-desc-rect" if="{{!isCircular}}">Scan the QR Code on your phone to be redirected to ticket website</text>
+</div>

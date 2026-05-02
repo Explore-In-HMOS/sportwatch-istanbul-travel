@@ -1,0 +1,30 @@
+{
+  "id": "galata-mevlevi-lodge-museum",
+  "name": "Galata Mevlevi Lodge Museum",
+  "type": "Museum",
+  "shortDescription": "The Galata Mevlevi Lodge Museum is a historic 1491 Mevlevi dervish lodge in Beyoğlu, known for its authentic sema hall, Ottoman-era architecture, and Mevlevi cultural exhibitions.",
+  "fullDescription": "Located near İstiklal Street at the start of Galip Dede Street, the Galata Mevlevi Lodge Museum (Galata Mevlevihanesi) is one of Istanbul’s most important Mevlevi heritage sites. Founded in 1491, it was known in the Ottoman period as Galata or Kulekapısı Mevlevi Lodge, and later served as the Divan Literature Museum before being reorganized as the Galata Mevlevi Lodge Museum in 2011. The complex includes the sema hall with its walnut floor, mihrab, minber, and calligraphy works, upper lodges used for exhibitions, and tombs of prominent Mevlevi figures including Sheikh Galip. The museum presents collections of calligraphy, marbling art, Hilye-i Şerif panels, and Ottoman musical culture, offering visitors a strong introduction to Mevlevi spirituality and Ottoman religious-artistic life.",
+  "address": "Sahkulu Mh. Galip Dede Cad. No:15, 34420 Beyoglu/Istanbul",
+  "latitude": 41.028540,
+  "longitude": 28.974958,
+  "open_close_hours": {
+    "regular": {
+      "opening_time": "09:00",
+      "closing_time": "18:30",
+      "box_office_closing_time": "17:30"
+    },
+    "night": {
+      "opening_time": "00:00",
+      "closing_time": "00:00",
+      "box_office_closing_time": "00:00"
+    }
+  },
+  "image_url": "https://muze.gen.tr/c7/Galata_Mevlevi_House_Museum.webp",
+  "official_website": "https://muze.gen.tr/muze-detay/galatamevlevi",
+  "ticketPurchaseLink": "https://muze.gov.tr/urun-ekle?catalogNo=WEB-GLT01-01-009",
+  "contact": {
+    "email": "galatamevlevihanesi@kultur.gov.tr",
+    "phone_1": "+90(212)2454141",
+    "phone_2": null
+  }
+}

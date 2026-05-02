@@ -1,0 +1,161 @@
+.container {
+    width: 100%;
+    height: 100%;
+    flex-direction: column;
+    align-items: center;
+    background-color: #faf5f5;
+}
+
+.custom-stack {
+    width: 100%;
+    height: 100%;
+    align-items: center;
+    align-content: center;
+}
+
+.detail-list {
+    height: 100%;
+    background-color: #faf5f5;
+}
+
+.header-item {
+    flex-direction: column;
+    align-items: center;
+}
+
+.hero-image {
+    border-radius: 12px;
+    margin-top: 8px;
+}
+
+.detail-name {
+    font-size: 32px;
+    color: #1A1A2E;
+    text-align: center;
+    margin-top: 8px;
+    flex-wrap: wrap;
+    line-height: 44px;
+    width: 100%;
+}
+
+.detail-type {
+    font-size: 28px;
+    color: #888888;
+    text-align: center;
+    margin-top: 4px;
+    flex-wrap: wrap;
+    line-height: 40px;
+}
+
+.section-item {
+    flex-direction: column;
+}
+
+.detail-desc {
+    font-size: 26px;
+    color: #1A1A2E;
+    flex-wrap: wrap;
+}
+
+.section-title {
+    font-size: 30px;
+    color: #1A1A2E;
+    margin-bottom: 4px;
+}
+
+.info-text {
+    font-size: 26px;
+    color: #1A1A2E;
+    margin-top: 2px;
+}
+
+.hours-row {
+    height: 36px;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.hours-label {
+    font-size: 26px;
+    color: #444444;
+}
+
+.hours-value {
+    font-size: 26px;
+    color: #1A1A2E;
+}
+
+.similar-places-list {
+    width: 100%;
+    height: 180px;
+    flex-direction: row;
+    background-color: #faf5f5;
+}
+
+.similar-places-list-item {
+    width: 120px;
+    height: 180px;
+    margin-top: 8px;
+    margin-right: 16px;
+}
+
+.similar-places-card {
+    width: 120px;
+    height: 180px;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+    border-radius: 16px;
+}
+
+.similar-places-card-image {
+    width: 120px;
+    height: 120px;
+    border-radius: 16px;
+    background-color: #888888;
+}
+
+.similar-places-card-title {
+    width: 120px;
+    height: 40px;
+    font-size: 22px;
+    color: #1A1A2E;
+    text-align: center;
+    text-overflow: ellipsis;
+    margin-top: 2px;
+}
+
+/* Use together with btn arc text in a stack */
+.btn-arc {
+    width: 1200px;
+    height: 1200px;
+    border-radius: 600px;
+    background-color: #C0392B;
+    top: 80%;
+    left: -373px;
+}
+
+.btn-rect {
+    width: 1200px;
+    height: 1200px;
+    border-radius: 0px;
+    background-color: #C0392B;
+    top: 80%;
+    left: -373px;
+}
+
+/* Use together with btn arc in a stack */
+.btn-arc-text {
+    width: 100%;
+    height: 40px;
+    font-size: 32px;
+    color: white;
+    text-align: center;
+    top: 85%;
+    left: 0px;
+}
+
+/* Spacer to put on bottom of lists if the screen has arc button */
+.arc-btn-spacer {
+    height: 25%;
+}

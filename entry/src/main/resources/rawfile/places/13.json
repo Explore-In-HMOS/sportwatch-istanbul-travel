@@ -1,0 +1,30 @@
+{
+  "id": "museum-of-the-history-of-science-and-technology-in-islam",
+  "name": "Museum of History, Science and Technology in Islam",
+  "type": "Museum",
+  "shortDescription": "Opened in 2008 based on a concept by Prof. Dr. Fuat Sezgin, this museum presents reconstructions of scientific instruments and technologies developed by Islamic scholars between the 9th and 16th centuries.",
+  "fullDescription": "The Museum of the History of Science and Technology in Islam opened in 2008 with a curatorial concept prepared by Prof. Dr. Fuat Sezgin, a leading historian of Islamic science. The museum showcases models, devices, and tools invented or advanced by Muslim scientists from the 9th to the 16th centuries, organized across 12 thematic sections including astronomy, clocks and navigation, war technology, medicine, mining, physics, mathematics and geometry, architecture and urban planning, chemistry and optics, geography, and a cinevision screening room.\n\nOne of its most iconic exhibits is al-Jazari’s Elephant Clock, displayed in the entrance hall. Al-Jazari—widely regarded as a foundational figure in cybernetics and robotics—designed the clock as a symbolic expression of the cultural universality of the Islamic world. The astronomy section includes models of major Islamic-era observatories, astrolabes, globes, and measuring instruments. The clocks and marine section features sundials, timekeeping devices associated with al-Jazari and al-Biruni, mechanical clocks by Ottoman astronomer Taqi al-Din, a chandelier clock, an Andalusian candle clock with twelve doors, and maritime equipment. In the physics section, scale models based on al-Jazari’s \"Kitabü’l-Hiyel\" are presented, alongside instruments such as al-Biruni’s pycnometer, helical and piston pumps, multi-bolt door mechanisms, a perpetuum mobile concept, a scissor-type lift, and pulley systems.",
+  "address": " Cankurtaran, Taya Hatun Sk. Gülhane Parki, 34122 Fatih/Istanbul",
+  "latitude": 41.013527,
+  "longitude": 28.978389,
+  "open_close_hours": {
+    "regular": {
+      "opening_time": "09:00",
+      "closing_time": "19:00",
+      "box_office_closing_time": "18:00"
+    },
+    "night": {
+      "opening_time": "00:00",
+      "closing_time": "00:00",
+      "box_office_closing_time": "00:00"
+    }
+  },
+  "image_url": "https://muze.gen.tr/c7/Museum-Of-The-History-Of-Science-And-Technology-In-Islam.webp",
+  "official_website": "https://muze.gen.tr/muze-detay/islam-bilim",
+  "ticketPurchaseLink": "https://www.getyourguide.com/istanbul-l56/guided-tours-tc1144/?partner_id=HS8SF4D&utm_medium=online_publisher&cmp=islambilimmd2&deeplink_id=068f25a3-3431-5db1-9526-42beff9154b1&page_id=112ba422-4bcf-5141-a778-c691f602de17",
+  "contact": {
+    "email": "bilimveteknolojimuz@ktb.gov.tr",
+    "phone_1": "+90(212)5288065",
+    "phone_2": "+90(212)5137214"
+  }
+}

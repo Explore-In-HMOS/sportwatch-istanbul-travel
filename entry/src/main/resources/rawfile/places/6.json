@@ -1,0 +1,30 @@
+{
+  "id": "great-palace-mosaics-museum",
+  "name": "Great Palace Mosaics Museum",
+  "type": "Museum",
+  "shortDescription": "Located in the Arasta Market within Istanbul’s Blue Mosque Complex, the Great Palace Mosaics Museum preserves exceptional 5th–6th century Eastern Roman mosaics depicting daily life, nature, and mythology.",
+  "fullDescription": "The Great Palace Mosaics Museum is home to a rare and magnificent collection of floor mosaics from the Eastern Roman (Byzantine) Great Palace. Discovered during excavations in 1935 in the northeastern section of the palace cloister, these mosaics are dated to approximately 450–550 AD. They are especially notable for their artistic mastery and vivid, non-religious storytelling, with scenes drawn from everyday life, nature, and mythology.\n\nThe museum is located in the Arasta Market, within the Blue Mosque Complex in Istanbul. It was established to protect and display the partially preserved mosaic pavement from the northeastern part of the colonnaded courtyard of the Great Palace. Around 180 square meters of mosaic surface has been uncovered and conserved.\n\nIn terms of administration, the museum came under the Istanbul Archaeology Museums in 1953 and became a unit of the Hagia Sophia Museum in 1979. A major restoration and conservation project was carried out between 1982 and 1997 through a protocol between the Ministry of Culture’s General Directorate of Monuments and Museums and the Austrian Academy of Sciences.\n\nThe mosaics are composed of tesserae made of limestone, terracotta, and colored stones, with an average size of about 5 mm. The compositions include techniques referred to as opus vermiculatum and fish-scale applications on white marble areas, with figures emphasized by clear contour linesn\nAmong the most remarkable scenes are: a griffon eating a lizard, an elephant and lion in combat, a mare nursing its foal, children herding geese, a man milking a goat, a child feeding a donkey, a young girl carrying a jug, bears eating apples, and a hunter fighting a tiger. In total, the mosaic program includes around 150 human and animal figures across about 90 different themes.\n\nVisitors to the museum are also close to the Blue Mosque (Sultan Ahmed Mosque), a major 17th-century imperial monument built by Sedefkar Mehmet Aga under Sultan Ahmed I, known for its famous İznik tiles and monumental complex.",
+  "address": "Kabasakal Cad. Torun Sk. Arasta Çarşisi (Bazaar) No:86, 34122 Sultanahmet/Fatih/Istanbul",
+  "latitude": 41.004467,
+  "longitude": 28.978030,
+  "open_close_hours": {
+    "regular": {
+      "opening_time": "09:00",
+      "closing_time": "18:30",
+      "box_office_closing_time": "18:30"
+    },
+    "night": {
+      "opening_time": "00:00",
+      "closing_time": "00:00",
+      "box_office_closing_time": "00:00"
+    }
+  },
+  "image_url": "https://muze.gen.tr/images/mosaic_museum-3.jpg",
+  "official_website": "https://muze.gen.tr/muze-detay/mozaik",
+  "ticketPurchaseLink": "https://muze.gov.tr/urun-ekle?catalogNo=WEB-MOZ01-87-009",
+  "contact": {
+    "email": "ayasofyamuzesi@ktb.gov.tr",
+    "phone_1": "+90(212)5181205",
+    "phone_2": null
+  }
+}
